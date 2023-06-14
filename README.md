@@ -1,6 +1,6 @@
 # ReactNative - Educatinal Space
   Git repo used for learning React-Native . <br>
-## React-NAtive
+## React-Native
 •<br>
 •<br>
 •<br>

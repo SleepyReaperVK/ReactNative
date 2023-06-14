@@ -1,5 +1,4 @@
 # ReactNative
-hehehe
-heheheh
-hehehe3
-AHHH
+Git repo used for learning React-Native .
+# Main points 
+•Brenching •Push/Pull • Commit • Marge Changes.

@@ -1,8 +1,8 @@
 # ReactNative - Educatinal Space
   Git repo used for learning React-Native . <br>
 ## React-Native
-•<br>
-•<br>
+• lamda usage with props -  <br>
+• useState vs useRef vs useEffect -  <br>
 •<br>
 •<br>
 •<br>

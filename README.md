@@ -11,7 +11,7 @@
 • Componets - Atomes -> Molecules -> Organisms -> Templates -> Pages  <br>
 • Virtual DOM ? - Document Object Model  <br>
 • Refreshed memory on basic React  <br>
-• How to run a debugg? - <>  <br>
+• How to run a debug in VScode - Done<>  <br>
 • Class vs Hook - read and mostly understood , class is statefull , hooks stateless . Class have lifeCycle but Hooks are simplier and less code<> <br>
 • REACT fourms - need to do.<br>
 •<br>

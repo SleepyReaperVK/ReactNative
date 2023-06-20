@@ -1,11 +1,19 @@
-# ReactNative - Educatinal Space
-  Git repo used for learning React-Native . <br>
-## React-Native
+repo used for learning React-Native personal use . <br>
+# ReactNative - RoadMap - 
+• JSX syntax -  <br>
+• React Recap - <br>
+• React Hooks - <br>
+• React LifeCycle - <br>
+• React Navagation - <br>
+• React Native Basic - <br>
+• React Native Redux & Context -<br>
+• React Native Additional APIs -<br>
+• React Native Device Features - <br>
+•<br>
+# ReactNative - Educatinal Space - Zero TO Mastery - 20/6/2023 
 • React-Native basic - Text , View , TextInput, Button 	• Done  <br>
 • useState vs useRef vs useEffect - Done , need to sharpen my understanding and use of 'useEffect'  <br>
 • StyleSheet and flexbox - mostly understod <br>
-•<br>
-•<br>
 •<br>
 ### React Fundomentals
 • Componets - Atomes -> Molecules -> Organisms -> Templates -> Pages  <br>
@@ -20,4 +28,4 @@
 • Commit - Choose what files to Commit to said Brench     <br>
 • Pull/Push - From time to time Pull from Main to Brench to work on the latest ○ Push changes mainly to the current Brench  <br>
 • Merge Changes - Merge Brenches till you merge to the Main brench , usually someon on the team will review the brench before merge to Main <br>
-
+•<br>
